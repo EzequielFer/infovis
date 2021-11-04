@@ -1,1 +1,5 @@
-Zoo
+data density
+Horizon Graphs
+Stem-and-Leaf Plots
+quantile-quantile
+Parallel Coordinates
