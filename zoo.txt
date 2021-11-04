@@ -3,3 +3,5 @@ Horizon Graphs
 Stem-and-Leaf Plots
 quantile-quantile
 Parallel Coordinates
+Enclosure Diagrams
+Arc Diagrams - seriation
